@@ -7,18 +7,25 @@
 </p>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## **About me**
 
 <br>
 
-- A student studying software development engineering
-- My goal is to be a full stack developer
-- Currently my interests are more focused on frontend
-- I'm currently open to any job opportunity to improve & hone my skills
-- I like to play video games, basketball, listen to music, watch videos, series, movies, anime, etc.
-- I'm serious, organized, responsible, shy, friendly, active
+👨‍💻 Aspiring Software Developer | 🌟 Frontend Enthusiast
+
+- Software Development Engineering student with a goal of becoming a Full Stack Developer - especially Frontend Development.
+
+- While my personality's a little shy, I’m friendly and always open to new collaborations and ideas.
+
+🌱 Currently working on:
+
+- Sharpening my skills in modern web technologies.
+
+- Building meaningful projects that challenge me to grow.
+
+💼 Open to opportunities:
+
+- Project, internship, or collaboration; I’m eager to learn, contribute, and expand my capabilities.
 
 <br><br>
 
