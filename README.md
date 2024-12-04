@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm AHTyler </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">(‾◡◝)</h1>
+<h1 align="center"><b>Hi , I'm AHTyler </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">(‾◡◝)</h1> 
 
 ![Banner github_2](https://github.com/user-attachments/assets/bb74da8e-a4dc-45bd-9742-4704ecf5ee5a)
 <!-- animation -->
@@ -11,7 +11,7 @@
 
 <br>
 
-👨‍💻 Aspiring Software Developer | 🌟 Frontend Enthusiast
+👨‍💻 **Aspiring Software Developer** | 🌟 **Frontend Enthusiast**
 
 - Software Development Engineering student with a goal of becoming a Full Stack Developer - especially Frontend Development.
 
@@ -26,6 +26,8 @@
 💼 Open to opportunities:
 
 - Project, internship, or collaboration; I’m eager to learn, contribute, and expand my capabilities.
+
+## <div> <img src="https://profile-counter.glitch.me/victortelles/count.svg"> 👀 </div>
 
 <br><br>
 
