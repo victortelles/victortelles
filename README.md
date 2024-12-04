@@ -85,7 +85,9 @@
 
 <li>
 <a href="mailto:victor-tah@outlook.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: victortah123@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/mail%3A%20victor--tah%40outlook.com-blue?style=for-the-badge&logo=microsoft&logoColor=white" style="margin-bottom: 5px;" />
+
+
 </a>
 </li>
 	
@@ -95,11 +97,13 @@
 <br>
 
 ---
+Last Edited on: 03/12/2024
+<br>
+---
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+<br>
 
-Last Edited on: 09/11/2022
-
+Design credits: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
 <!--
 **victortelles/victortelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
